@@ -1,10 +1,6 @@
 # public-bdd-starterkit-selenium
 An entry-level BDD starter kit using Cucumber + Selenium with NodeJS
 
-
-# Cucumber + Selenium + NodeJS
-> A tutorial for behavior driven, end-to-end testing.
-
 ### Setup
 * Install dependencies with `npm i`.
 * Create a `.env` file in the root of your project.
